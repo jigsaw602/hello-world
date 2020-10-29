@@ -1,0 +1,12 @@
+name: expenseReport
+title: expenseReport
+username:
+account: abhishekkumarsinha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2187552
+bundleId: 3065946
+url: https://abhishekkumarsinha.shinyapps.io/expenseReport/
+when: 1587882077.56507
+asMultiple: FALSE
+asStatic: FALSE
